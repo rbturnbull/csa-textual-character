@@ -1,5 +1,5 @@
 # The Textual Character of Codex Sinaiticus Arabicus and its Family
-![Ancient vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Ancient-Byz-Gospels-Colour.svg)
+![Byzantine vs. Time - 4 Gospels](../../blob/master/Graphs/Byz-Time-Gospels-Colour.svg)
 
 This repository includes data and code to accompany my paper 'The Textual Character of Codex Sinaiticus Arabicus and its Family' which I delivered at the 11th [Birmingham Colloquium on the Textual Criticism of the New Testament](https://www.birmingham.ac.uk/research/activity/itsee/events/bham-colloquium.aspx) in March, 2019. The print version of the paper is forthcoming.
 
