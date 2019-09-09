@@ -1,5 +1,5 @@
 # The Textual Character of Codex Sinaiticus Arabicus and its Family
-![Ancient vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Ancient-Byz-4Gospels-Colour.svg)
+![Ancient vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Ancient-Byz-Gospels-Colour.svg)
 
 This repository includes data and code to accompany my paper 'The Textual Character of Codex Sinaiticus Arabicus and its Family' which I delivered at the 11th [Birmingham Colloquium on the Textual Criticism of the New Testament](https://www.birmingham.ac.uk/research/activity/itsee/events/bham-colloquium.aspx) in March, 2019. The print version of the paper is forthcoming.
 
@@ -42,14 +42,14 @@ The paper includes several graphs. Here are colour versions as well as other gra
 ![Ancient vs. Byzantine - Mark](../../blob/master/Graphs/Ancient-Byz-Mark-Colour.svg)
 ![Ancient vs. Byzantine - Luke](../../blob/master/Graphs/Ancient-Byz-Luke-Colour.svg)
 ![Ancient vs. Byzantine - John](../../blob/master/Graphs/Ancient-Byz-John-Colour.svg)
-![Ancient vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Ancient-Byz-4Gospels-Colour.svg)
+![Ancient vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Ancient-Byz-Gospels-Colour.svg)
 
 ### Special vs. Byzantine
 ![Special vs. Byzantine - Matthew](../../blob/master/Graphs/Special-Byz-Matthew-Colour.svg)
 ![Special vs. Byzantine - Mark](../../blob/master/Graphs/Special-Byz-Mark-Colour.svg)
 ![Special vs. Byzantine - Luke](../../blob/master/Graphs/Special-Byz-Luke-Colour.svg)
 ![Special vs. Byzantine - John](../../blob/master/Graphs/Special-Byz-John-Colour.svg)
-![Special vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Special-Byz-4Gospels-Colour.svg)
+![Special vs. Byzantine - 4 Gospels](../../blob/master/Graphs/Special-Byz-Gospels-Colour.svg)
 
 ### Byzantine vs. Time
 
